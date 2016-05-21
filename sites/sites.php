@@ -56,3 +56,5 @@
 $sites['sitevs0173.evolverinc.tech'] = 'all';
 $sites['subsiteskt0908.site.com'] = 'subsiteskt0908.site.com';
 $sites['subsiteskt0318.site.com'] = 'subsiteskt0318.site.com';
+
+$sites['sitesktvs01975.evolverinc.tech'] = 'all';
